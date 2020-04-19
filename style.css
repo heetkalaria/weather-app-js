@@ -71,7 +71,7 @@ body{
     color: #293251;
     font-size: 4em;
     text-align: center;
-    cursor: pointer;
+    cursor:;
 }
 
 .temperature-value p:hover{
